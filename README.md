@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/lgoyal240354/lgoyal24/_apis/build/status/lgoyal24.ContosoAir?branchName=master)](https://dev.azure.com/lgoyal240354/lgoyal24/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/lgoyal84970388/ContosoAir%20CI-CD/_apis/build/status/lgoyal24.ContosoAir?branchName=master)](https://dev.azure.com/lgoyal84970388/ContosoAir%20CI-CD/_build/latest?definitionId=1&branchName=master)
 
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
